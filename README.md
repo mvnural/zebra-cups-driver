@@ -1,5 +1,7 @@
 # zebra-cups-driver
-The default Zebra driver distributed with the CUPS installations may cause issues with some of the smaller size labels commonly used in research/clinical settings. This modified driver fixes that issue.
+The default Zebra driver distributed with the CUPS installations may cause issues like printing empty or misaligned labels with some of the smaller size labels commonly used in research/clinical settings. This modified driver fixes that issue.
+
+This driver should work with any Zebra printer that supports ZPL language (most desktop and industrial printers).
 
 ## GUI Installation (Mac)
 1. Make sure the printer is turned on and connected to the computer.
